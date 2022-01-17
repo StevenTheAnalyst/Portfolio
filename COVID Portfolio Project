@@ -126,3 +126,5 @@ JOIN PortfolioProject..CovidVaccinations vac
 	AND deaths.date = vac.date
 WHERE deaths.continent IS NOT NULL;
 
+SELECT * 
+FROM PercentPopulationVaccinated;
