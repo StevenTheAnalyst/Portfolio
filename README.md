@@ -1,3 +1,3 @@
 # Portfolio Projects
 
-This portfolio contains various projects I have completed which showcase my skillsets in SQL, Tableau, Power BI, Excel, Python, and other tools used for Data Analysis.
+This portfolio contains various projects I have completed using tools for Data Analysis such as SQL, Tableau, Power BI, Excel, and Python.
