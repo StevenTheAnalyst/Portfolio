@@ -16,7 +16,7 @@ FROM Portfolio_Project.CovidDeaths;
 SELECT location, date, population, total_cases, new_cases, total_deaths, 
 FROM PortfolioProject.CovidDeaths
 WHERE continent IS NOT NULL 
-ORDER BY 1,2;
+ORDER BY 1,2; 
 
 
 -- Total Cases vs Total Deaths
