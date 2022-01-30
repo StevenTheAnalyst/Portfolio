@@ -24,7 +24,7 @@ SET SaleDate = CONVERT(Date,SaleDate)
 ALTER TABLE SeattleHousing
 Add SaleDateConverted Date;
 
-Update SeattleHousing
+UPDATE SeattleHousing
 SET SaleDateConverted = CONVERT(Date,SaleDate)
 
 
