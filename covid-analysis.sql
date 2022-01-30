@@ -134,3 +134,6 @@ WHERE deaths.continent IS NOT NULL;
 
 SELECT * 
 FROM PercentPopulationVaccinated;
+
+    
+    
