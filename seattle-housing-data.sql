@@ -6,7 +6,6 @@ Skills used: Updates, Joins, Formatting, Removing Duplicates
 
 */
 
-
 SELECT *
 FROM PortfolioProject.dbo.SeattleHousing
 
@@ -176,3 +175,5 @@ FROM PortfolioProject.dbo.SeattleHousing
 ALTER TABLE PortfolioProject.dbo.SeattleHousing
 DROP COLUMN OwnerAddress, TaxDistrict, PropertyAddress, SaleDate
 
+
+	
