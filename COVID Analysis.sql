@@ -1,8 +1,12 @@
-/* COVID-19 Data Analysis
+/* 
+
+COVID-19 Data Analysis
 
 Skills used: SQL Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types, Tableau
 
-Visualization Dashboard: https://public.tableau.com/app/profile/steven.tang7782/viz/CovidDashboard_16425065706590/Dashboard1 */
+Dashboard: https://public.tableau.com/app/profile/steven.tang7782/viz/CovidDashboard_16425065706590/Dashboard1
+
+*/
 
 
 -- Select entire starting dataset
