@@ -155,7 +155,7 @@ SELECT *,
 
 FROM PortfolioProject.dbo.SeattleHousing
 
---ODER BY ParcelID
+--ORDER BY ParcelID
 
 SELECT *
 FROM RowNumCTE
