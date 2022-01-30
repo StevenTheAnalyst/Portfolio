@@ -170,8 +170,8 @@ FROM PortfolioProject.dbo.SeattleHousing
 
 -- Delete Unused Columns
 
-Select *
-From PortfolioProject.dbo.SeattleHousing
+SELECT *
+FROM PortfolioProject.dbo.SeattleHousing
 
 ALTER TABLE PortfolioProject.dbo.SeattleHousing
 DROP COLUMN OwnerAddress, TaxDistrict, PropertyAddress, SaleDate
