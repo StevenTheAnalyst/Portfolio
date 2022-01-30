@@ -1,6 +1,6 @@
 # Portfolio Projects for Data Analytics
 
-## Certificate: https://www.coursera.org/verify/professional-cert/73LTX5P5Q2CA
+### Certificate: https://www.coursera.org/verify/professional-cert/73LTX5P5Q2CA
 
 This repository contains various projects that I have completed as part of Google's Data Analytics Certification. 
 
