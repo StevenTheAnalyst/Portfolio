@@ -1,4 +1,4 @@
-# Portfolio Projects for Data Analytics
+# Portfolio Projects
 
 ### Certificate: https://www.coursera.org/verify/professional-cert/73LTX5P5Q2CA
 
